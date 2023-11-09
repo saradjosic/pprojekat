@@ -1,5 +1,6 @@
-package view;
-import controller.ExitAction;
+package raf.dsw.classzcraft.app.view;
+
+import raf.dsw.classzcraft.app.controller.ExitAction;
 
 import javax.swing.*;
 import java.awt.event.ActionEvent;

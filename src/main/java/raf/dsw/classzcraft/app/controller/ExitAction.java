@@ -1,4 +1,5 @@
-package controller;
+package raf.dsw.classzcraft.app.controller;
+
 
 import javax.swing.*;
 import java.awt.*;
