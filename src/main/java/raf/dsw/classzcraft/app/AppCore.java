@@ -1,4 +1,4 @@
-package raf.dsw.classzcraft.app.view;
+package raf.dsw.classzcraft.app;
 
 import raf.dsw.classzcraft.app.core.ApplicationFramework;
 
