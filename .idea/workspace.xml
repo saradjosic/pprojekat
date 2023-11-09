@@ -4,30 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e1564c05-b584-4c21-960c-3f82135fc1b9" name="Changes" comment="Update README.md">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/raf/dsw/classzcraft/app/AppCore.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/raf/dsw/classzcraft/app/controller/AboutUs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/raf/dsw/classzcraft/app/controller/AbstractClassyAction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/raf/dsw/classzcraft/app/controller/ActionManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/raf/dsw/classzcraft/app/controller/NewProjectAction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/raf/dsw/classzcraft/app/view/AboutUsFrame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/slike/img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/slike/img_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/slike/img_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/slike/pavlee" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/slike/plus" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dizajn-softvera-projekat-tim_pavlemilic_saradjosic.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dizajn-softvera-projekat-tim_pavlemilic_saradjosic.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/raf/dsw/classzcraft/app/controller/ExitAction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/raf/dsw/classzcraft/app/controller/ExitAction.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/raf/dsw/classzcraft/app/view/AppCore.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/raf/dsw/classzcraft/app/view/MainFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/raf/dsw/classzcraft/app/view/MainFrame.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/raf/dsw/classzcraft/app/view/MyMenyBar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/raf/dsw/classzcraft/app/view/MyMenyBar.java" afterDir="false" />
-    </list>
+    <list default="true" id="e1564c05-b584-4c21-960c-3f82135fc1b9" name="Changes" comment="Update README.md" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -145,7 +122,14 @@
       <option name="project" value="LOCAL" />
       <updated>1699533743287</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Update README.md">
+      <created>1699550657935</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1699550657935</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
