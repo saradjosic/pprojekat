@@ -10,7 +10,7 @@ import java.awt.*;
 public class MainFrame extends JFrame {
     private static MainFrame instance;
     //buduca polja za sve komponente view-a na glavnom prozoru
-
+    //mora da ima polje actionManagera da bi moglo da se pristupi u ToolBaru i tako to
     private ActionManager actionManager;
 
 

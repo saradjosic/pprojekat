@@ -4,7 +4,29 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e1564c05-b584-4c21-960c-3f82135fc1b9" name="Changes" comment="Update README.md" />
+    <list default="true" id="e1564c05-b584-4c21-960c-3f82135fc1b9" name="Changes" comment="Update README.md">
+      <change afterPath="$PROJECT_DIR$/src/main/java/raf/dsw/classzcraft/app/apstrakcija/ClassyNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/raf/dsw/classzcraft/app/apstrakcija/ClassyNodeComposite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/raf/dsw/classzcraft/app/apstrakcija/ClassyNodeLeaf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/raf/dsw/classzcraft/app/core/IMessage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/raf/dsw/classzcraft/app/core/Logger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/raf/dsw/classzcraft/app/message/ConsoleLogger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/raf/dsw/classzcraft/app/message/FileLogger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/raf/dsw/classzcraft/app/message/LoggerFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/raf/dsw/classzcraft/app/message/Message.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/raf/dsw/classzcraft/app/message/MessageGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/raf/dsw/classzcraft/app/message/MessageType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/raf/dsw/classzcraft/app/observer/IPublisher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/raf/dsw/classzcraft/app/observer/ISubscriber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/raf/dsw/classzcraft/app/controller/AbstractClassyAction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/raf/dsw/classzcraft/app/controller/AbstractClassyAction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/raf/dsw/classzcraft/app/controller/ActionManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/raf/dsw/classzcraft/app/controller/ActionManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/raf/dsw/classzcraft/app/controller/ExitAction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/raf/dsw/classzcraft/app/controller/ExitAction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/raf/dsw/classzcraft/app/view/MainFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/raf/dsw/classzcraft/app/view/MainFrame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/raf/dsw/classzcraft/app/view/MyToolBar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/raf/dsw/classzcraft/app/view/MyToolBar.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,6 +37,8 @@
       <list>
         <option value="package-info" />
         <option value="XML Properties File" />
+        <option value="Enum" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -30,17 +54,14 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="MavenImportPreferences">
-    <option name="generalSettings">
-      <MavenGeneralSettings>
-        <option name="useMavenConfig" value="true" />
-      </MavenGeneralSettings>
-    </option>
-  </component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 4
+}]]></component>
   <component name="ProjectId" id="2XukrZbOzGRFgekCGQHKplbHO3s" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -52,6 +73,9 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "jdk.selected.JAVA_MODULE": "10",
     "last_opened_file_path": "C:/Users/Vidan/dizajn-softvera-projekat-tim_pavlemilic_saradjosic/src/main/resources/slike",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
     "run.code.analysis.last.selected.profile": "pProject Default",
     "settings.editor.selected.configurable": "preferences.pluginManager"
   },

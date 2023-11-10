@@ -11,7 +11,9 @@ public class MyToolBar extends JToolBar {
         super(HORIZONTAL);
         setFloatable(false);
 
-       add(MainFrame.getInstance().getActionManager().getExit());
+       add(MainFrame.getInstance().getActionManager().getExit()); //samo se dodaje tako lagano
        add(MainFrame.getInstance().getActionManager().getNewProjectAction());
+       //add je to JToolBar-a
+        //moze i this.add ali ne potrebe jer je to tu
     }
 }

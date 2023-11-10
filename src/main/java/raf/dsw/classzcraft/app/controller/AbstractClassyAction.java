@@ -4,11 +4,13 @@ import javax.swing.*;
 import java.awt.*;
 import java.net.URL;
 
-public abstract class AbstractClassyAction extends AbstractAction{
+public abstract class  AbstractClassyAction extends AbstractAction{
+    //nasledjuje da bi mogli da imamo setValue i actionPerformed kasnije
 
     public AbstractClassyAction(){
 
     }
+    //ovde je da se ne bi stalno copy pasete-ovao
 public Icon loadIcon(String name){ //funkcija za ucitavanje icone iz resursa
     Icon icon = null;
     URL ImageURL = getClass().getResource(name);

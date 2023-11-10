@@ -1,11 +1,16 @@
 package raf.dsw.classzcraft.app.controller;
 
 public class ActionManager{
-//ovde kada se doda nova akcija je potrebno dodati polje te akcije i kreirati njenu instancu
+//mora za svaku akciju da ima polje i instancu, tako svaki put
     private ExitAction exit;
     private NewProjectAction newProjectAction;
     private AboutUs aboutUs;
     public ActionManager (){
+        initActions();
+
+    }
+    //da nismo inicijalizovali vratio bi null kad koristimo
+    private void initActions(){
         exit=new ExitAction();
         newProjectAction=new NewProjectAction();
         aboutUs=new AboutUs();
