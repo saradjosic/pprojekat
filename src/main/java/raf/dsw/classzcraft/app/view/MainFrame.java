@@ -17,7 +17,7 @@ public class MainFrame extends JFrame {
     private MainFrame(){
 
     }
-
+///sdsff
     private void initialize(){
         Toolkit kit = Toolkit.getDefaultToolkit();
         Dimension screenSize = kit.getScreenSize();

@@ -5,27 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e1564c05-b584-4c21-960c-3f82135fc1b9" name="Changes" comment="Update README.md">
-      <change afterPath="$PROJECT_DIR$/src/main/java/raf/dsw/classzcraft/app/apstrakcija/ClassyNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/raf/dsw/classzcraft/app/apstrakcija/ClassyNodeComposite.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/raf/dsw/classzcraft/app/apstrakcija/ClassyNodeLeaf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/raf/dsw/classzcraft/app/core/IMessage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/raf/dsw/classzcraft/app/core/Logger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/raf/dsw/classzcraft/app/message/ConsoleLogger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/raf/dsw/classzcraft/app/message/FileLogger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/raf/dsw/classzcraft/app/message/LoggerFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/raf/dsw/classzcraft/app/message/Message.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/raf/dsw/classzcraft/app/message/MessageGenerator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/raf/dsw/classzcraft/app/message/MessageType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/raf/dsw/classzcraft/app/observer/IPublisher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/raf/dsw/classzcraft/app/observer/ISubscriber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/raf/dsw/classzcraft/app/controller/AbstractClassyAction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/raf/dsw/classzcraft/app/controller/AbstractClassyAction.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/raf/dsw/classzcraft/app/controller/ActionManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/raf/dsw/classzcraft/app/controller/ActionManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/raf/dsw/classzcraft/app/controller/ExitAction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/raf/dsw/classzcraft/app/controller/ExitAction.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/raf/dsw/classzcraft/app/view/MainFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/raf/dsw/classzcraft/app/view/MainFrame.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/raf/dsw/classzcraft/app/view/MyToolBar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/raf/dsw/classzcraft/app/view/MyToolBar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,6 +23,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Rebase.Settings">
+    <option name="NEW_BASE" value="main" />
+  </component>
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
       <list>
@@ -51,40 +34,53 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="f009f653-0537-43cf-a84c-0937ddbd1c39" />
+        <option name="url" value="https://github.com/saradjosic/dizajn-softvera-projekat-tim_pavlemilic_saradjosic.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2XukrZbOzGRFgekCGQHKplbHO3s" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "jdk.selected.JAVA_MODULE": "10",
-    "last_opened_file_path": "C:/Users/Vidan/dizajn-softvera-projekat-tim_pavlemilic_saradjosic/src/main/resources/slike",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "run.code.analysis.last.selected.profile": "pProject Default",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;10&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Vidan/dizajn-softvera-projekat-tim_pavlemilic_saradjosic/src/main/resources/slike&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   },
-  "keyToStringList": {
-    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
-      "PLAIN_TEXT"
+  &quot;keyToStringList&quot;: {
+    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
+      &quot;PLAIN_TEXT&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Vidan\dizajn-softvera-projekat-tim_pavlemilic_saradjosic\src\main\resources\slike" />
@@ -155,6 +151,17 @@
     </task>
     <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Update README.md" />
